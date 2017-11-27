@@ -1,0 +1,23 @@
+c:\users\yinbo\onedrive\documents\visual studio 2015\Projects\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe.config
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe.config
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\bin\Debug\TriviaNow.pdb
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csprojResolveAssemblyReference.cache
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\obj\Debug\TriviaNow.MainWindow.resources
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\obj\Debug\TriviaNow.Properties.Resources.resources
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\obj\Debug\TriviaNow.QuestionDetails.resources
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csproj.GenerateResource.Cache
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\obj\Debug\TriviaNow.exe
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\obj\Debug\TriviaNow.pdb
+C:\Users\yinbo\Desktop\CIS345\TriviaNow\TriviaNow\obj\Debug\TriviaNow.GameForm.resources
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe.config
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\obj\Debug\TriviaNow.exe
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\obj\Debug\TriviaNow.pdb
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\bin\Debug\TriviaNow.exe
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\bin\Debug\TriviaNow.pdb
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csprojResolveAssemblyReference.cache
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\obj\Debug\TriviaNow.GameForm.resources
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\obj\Debug\TriviaNow.MainWindow.resources
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\obj\Debug\TriviaNow.Properties.Resources.resources
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\obj\Debug\TriviaNow.QuestionDetails.resources
+C:\Users\yinbo\Desktop\Post-OPT\TriviaNow\TriviaNow\obj\Debug\TriviaNow.csproj.GenerateResource.Cache
